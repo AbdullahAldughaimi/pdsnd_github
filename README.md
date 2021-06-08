@@ -15,8 +15,7 @@ bike share systems for three major cities in the United States—Chicago, New Yo
 4-washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-<<<<<<< HEAD
+https://www.w3schools.com/python/
 
 ### Done 1
 keep coding 
