@@ -1,16 +1,18 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+8 Jun 2021, 13:01 GMT+3
 
 ### Project Title
-Replace the Project Title
-
+Bikeshare Project
 ### Description
-Describe what your project is about and what it does
+bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
 
 ### Files used
-Include the files used
+1- bikeshare.py
+2-chicago.csv
+3-new_york_city.csv
+4-washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
@@ -36,4 +38,4 @@ we need to delete them
 we need to use another technique to speed up the tasks
 ### display good bay ath the end
 goodbay
->>>>>>> refactoring
+
